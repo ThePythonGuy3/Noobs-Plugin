@@ -1,0 +1,7 @@
+{
+  "name": "Anti Noobs Plugin",
+  "author": "ThePythonGuy",
+  "main": "noobs.NoobsPlugin",
+  "description": "Kicks any player that builds a routersnek",
+  "version": 1.0
+}
